@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="font-size:50px; font-family: Noto Sans;">Night</h1>
+    <h1 style="font-size:50px; font-family: Noto Sans;">This is a fork of Night</h1>
 
 #### Night is one of the fastest and newest static proxies around
 
